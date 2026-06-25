@@ -1,1 +1,1 @@
-# Jira Testing Sandbox.
+# Jira Testing Sandbox
