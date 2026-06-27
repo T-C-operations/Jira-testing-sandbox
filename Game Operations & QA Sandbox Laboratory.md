@@ -68,4 +68,3 @@ To back my entry-level testing setup with real-world player knowledge, below is 
 * **Role Competency:** Deep understanding of both asymmetrical execution loops (High-tier Survivor perk coordination and Killer pathfinding behaviors).
 * **Mechanics Mastery:** Strong grasp of how perks interact, including vaulting speeds, Exhaustion/Haste cooldown priorities, and audio cues for skill checks.
 * **Live Sandbox Testing:** My personal hours in the Fog serve as the direct baseline data for the custom test scripts and database forms hosted inside this workspace.
-Use code with caution.
