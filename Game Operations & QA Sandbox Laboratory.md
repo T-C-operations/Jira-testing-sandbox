@@ -1,11 +1,11 @@
 # Game Operations & QA Sandbox Laboratory
 
-Welcome to my active technical testing and quality assurance workspace. This environment serves as a functional lab to track multi-platform software regression cycles, database configuration integrity, and player support ticketing triage pipelines.
+Welcome to my personal hands-on testing and quality assurance portfolio. I set up this active workspace to practice manual regression cycles, check database entries, and handle player support tickets using industry-standard tools.
 
-## Integrated DevOps Architecture
-* **Bug Tracking & Triage:** Jira Software & Jira Service Management (Agile / Kanban framework).
-* **Version Control System:** GitHub repository synced using automated Smart Commits to link code adjustments directly to active ticket keys.
-* **Testing Methodology:** Documented structured manual regression passes, click-by-click reproduction paths, and asset data table auditing.
+## My Portfolio Setup
+* **Bug Tracking Tools:** Jira Software & Jira Service Management (Using a standard Kanban board layout).
+* **Version Control:** Linked my GitHub repository to my Jira board to practice using automated Smart Commits to sync code updates directly to active tickets.
+* **My Testing Focus:** Running structured manual test scripts, writing step-by-step reproduction paths, and cross-referencing asset data tables.
 
 ---
 
@@ -62,10 +62,10 @@ Welcome to my active technical testing and quality assurance workspace. This env
 
 ## Subject Matter Expertise & Platform Metrics: Dead by Daylight
 
-To back my technical operations sandbox with raw player data, below is my active live-service metrics manifest representing over a decade of high-tier community engagement and mechanical analysis.
+To back my entry-level testing setup with real-world player knowledge, below is my active live-service experience representing a decade of personal familiarity with Dead by Daylight's mechanics and gameplay loops.
 
-* **Account Lifespan:** Active player and community veteran since 2016 (Continuous Live-Ops lifecycle tracking across patch cycles).
-* **Role Competency:** Comprehensive systems familiarity across both asymmetrical execution loops (High-tier Survivor meta coordination and Killer spatial pathfinding analysis).
-* **Mechanics Mastery:** Thorough understanding of all interconnected status interaction tables, including frame-perfect vaulting vectors, Exhaustion/Haste cooldown priority stacking, and audio-cued generator repair Skill Checks.
-* **Live Sandbox Testing:** My thousands of active hours in the Fog serve as the direct foundational data for the custom regression scripts and database triage forms hosted within this workspace.
+* **Account Lifespan:** Active player and community veteran since 2016 (Continuous familiarity tracking game patches and balance updates).
+* **Role Competency:** Deep understanding of both asymmetrical execution loops (High-tier Survivor perk coordination and Killer pathfinding behaviors).
+* **Mechanics Mastery:** Strong grasp of how perks interact, including vaulting speeds, Exhaustion/Haste cooldown priorities, and audio cues for skill checks.
+* **Live Sandbox Testing:** My personal hours in the Fog serve as the direct baseline data for the custom test scripts and database forms hosted inside this workspace.
 Use code with caution.
