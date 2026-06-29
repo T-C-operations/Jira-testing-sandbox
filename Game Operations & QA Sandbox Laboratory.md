@@ -1,6 +1,6 @@
 # Game Operations and QA Sandbox Laboratory
 
-Welcome to my personal hands-on testing and quality assurance portfolio. I set up this active workspace to practice manual regression cycles, check database entries, and handle player support tickets using industry-standard tools.
+Welcome to my personal hands-on QA portfolio. Because I am independent, I do not have direct access to private live-game source codes or production servers. Instead, I built this repository as a Simulated QA Laboratory. I used my lifetime of multi-genre game experience alongside targeted research to build a 1-to-1 blueprint of how a professional studio pipeline operates. The test cases and triage logs below are modeled after real live-service mechanics to show exactly how I track bugs, verify database tables, and manage ticket data.
 
 > ### Laboratory Ecosystem
 > * Bug Tracking and Agile Pipeline: Jira Software | Jira Service Management (Kanban Framework)
@@ -95,7 +95,7 @@ ACTUAL RESULT:   Mixed validation. Visual mesh drops but item database tables st
 
 Gaming has been a massive part of my life since childhood, stretching all the way back to the PS1 era. Over the decades, I expanded my horizon from a casual console player into a dedicated variety gamer with a deep backlog across almost every genre. I don't just play games to pass the time, I truly enjoy to explore and learn while playing the game. I started playing games as a child as a way to cope with my SC and always being home when younger. Over the years I have played numerous playtests, alphas and, EA titles, I have slowly expanded my game palette and just like to enjoy games that peak interest, even if others I know dont play, I enjoy it for my own reasons. 
 
-Even now, I spend my free time with my special needs son and we enjoy his favorite game/s dbd, rocket league. I try to play for him a few times a day if not busy; gaming has been apart of my life and i'm glad I get enjoy this hobby/passion with him.
+Even now, I spend my free time with my special needs son and we enjoy his favorite game/s dbd, rocket league. I try to play for him a few times a day if not busy; gaming has been apart of my life and even now i'm glad I get enjoy this hobby/passion with him.
 
 ### Asymmetrical Multiplayer | Dead by Daylight Veteran (2016 - Present)
 * Systems Evolution: Active player and community veteran since 2016. Extensive experience playing both the older legacy game versions and the modern updated builds, tracking game patches, meta shifts, and system balance updates across the game's entire lifecycle.
@@ -110,3 +110,14 @@ Even now, I spend my free time with my special needs son and we enjoy his favori
 * Titles Tracked: GTA, VEIN, Rocket League, Subnautica, 7 Days to Die, Astroneer, etc.
 * Logistics Analysis: Extensive playtime testing vehicle physics, item trunk storage limits, structural base building grids, voxel terrain changes, and character clipping bugs across early alpha versions and final modern releases.
 * Audio Fluency: Supported games like Astroneer from day-one Early Access to completion. Equipped with a trained ear for tracking outdoor sound settings, audio loops cutting out, and basic headphone/microphone connection glitches.
+
+---
+
+## Interview Reference: Portfolio Methodology
+
+To remain 100% transparent during the interview process, here is a quick note on how this laboratory operates:
+
+* No Live-Server Spying: I do not possess backend server access to the commercial titles listed above. The logs, database entries, and transaction ledger references are simulated scenarios based on my 5-year warehouse logic and lifetime game knowledge. Finding specific units from a list, delivering them to zones, and running full AAR checks on their functions—like radios, headlights, and folded mirrors—is the exact same process used to verify asset states and run defect retrospectives on a development team.
+  
+* Purpose of Results: The "Passed," "Failed," and "Mixed" statuses are mapped out to demonstrate my understanding of regression cycles and data hygiene. 
+* The Goal: This sandbox is designed to prove that my logistics precision and lifetime of variety gaming insights translate immediately into keeping a studio's live production environments organized, tracked, and stable.
